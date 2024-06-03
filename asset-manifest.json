@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CurrencyApp/static/css/main.ace4c40d.css",
+    "main.js": "/CurrencyApp/static/js/main.77c22873.js",
+    "static/js/453.3909e4a9.chunk.js": "/CurrencyApp/static/js/453.3909e4a9.chunk.js",
+    "index.html": "/CurrencyApp/index.html",
+    "main.ace4c40d.css.map": "/CurrencyApp/static/css/main.ace4c40d.css.map",
+    "main.77c22873.js.map": "/CurrencyApp/static/js/main.77c22873.js.map",
+    "453.3909e4a9.chunk.js.map": "/CurrencyApp/static/js/453.3909e4a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace4c40d.css",
+    "static/js/main.77c22873.js"
+  ]
+}
